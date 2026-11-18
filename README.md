@@ -20,13 +20,13 @@ A live SQL Injection attack (`Landed' #`) was executed against the vulnerable ve
 
 ## 2. Engineering Team Details (Single-Workstation Driver–Navigator)
 
-| Role | Full Name | Student ID | Braude Academic Email |
-| :--- | :--- | :--- | :--- |
-| **Student A** | `[Enter Student A Full Name]` | `[Enter ID]` | `[studentA@e.braude.ac.il]` |
-| **Student B** | `[Enter Student B Full Name]` | `[Enter ID]` | `[studentB@e.braude.ac.il]` |
+| Role | Full Name |
+| :--- | :--- |
+| **Student A** | Maor Dalal |
+| **Student B** | Neta Baron |
 
-* **Group Number:** `G[XX]`
-* **GitHub Repository URL:** `https://github.com/[Username]/JDBC_FlightManager`
+* **Group Number:** `G08`
+* **GitHub Repository URL:** https://github.com/MaorDalal/JDBC_FlightManager
 
 ---
 
